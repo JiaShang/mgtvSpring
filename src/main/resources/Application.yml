@@ -1,0 +1,9 @@
+ftp:
+ host: 127:0:0:1
+ port: 21
+ username: shang
+ password: shang
+ filepath: /movie
+ web:
+  host: 127.0.0.1
+  port: 8081
